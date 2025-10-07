@@ -52,7 +52,8 @@ Fingentic also handles fallback scenarios when data is missing or ambiguous, swi
 ## Built With
 
 - Languages: Python
-- LLMs: Gemma-27B, Mistral-7B (via Together AI)
+- LLMs: Gemma-27B (via Together AI)
+- Frameworks: LangGraph, LangChain
 - UI: Gradio
 - Speech Input: Whisper
 - Data: Forbes 2000 CSV in SQLite
