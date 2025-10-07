@@ -59,15 +59,4 @@ Fingentic also handles fallback scenarios when data is missing or ambiguous, swi
 - APIs: yFinance, Finnhub, DuckDuckGo
 - Libraries: pandas, matplotlib, PIL
 
----
 
-## Inspiration & Thanks
-
-Fingentic was inspired by curious people without technical skills who needed access to trustworthy financial data.
-
-Thanks to:
-- Anthropic and Google for enabling safe, powerful LLMs
-- Vercel and Fly.io for inspiring scalable deployment design
-- Supabase for future plans around user history and team collaboration
-
-Fingentic helps you ask smarter, safer questions — and get reliable answers in return.
